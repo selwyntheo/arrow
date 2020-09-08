@@ -1,3 +1,11 @@
+## Intro
+
+In its Managing Reconciliations by Exception: A Key to Improving Operational Performance by Reducing Costs report, PWC analyzed SEC 10K filings to determine that, for the average financial institution, the reconciliation of transaction, position and balance accounts make up 1.5 to 2 percent of operating expenses. “The majority of these costs are labor related, stemming from the degree of manual processes still in reconciliation operations.”
+
+Many financial situations have reconciliation as part of the day to day operations. In this video series we will be building a simple reconciliation system using Java Spring Boot, Angular. We will be using many libraries including OpenCSV and we will be buildng the system step by step.
+
+For following along, you will need basic understanding of Java and Angular. 
+
 ## Structure of the Project
 
 pom.xml
